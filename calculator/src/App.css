@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  background-color: grey;
+  text-align: center;
+}
+#one{
+  font-family: cursive;
+  font-size:30px;
+}
